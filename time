@@ -1,0 +1,3 @@
+import time
+print(time.strftime("%H:%M:%s"))
+print(time.strftime("%c"))
