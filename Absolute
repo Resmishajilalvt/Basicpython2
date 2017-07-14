@@ -1,0 +1,6 @@
+a = input('Enter the number')
+sub = a-20
+if sub > 20:
+    print sub * 2
+else:
+    print(sub,'is lesser')
