@@ -1,0 +1,5 @@
+a = input('Enter the number =')
+if (a>1000) & (a<2000):
+    print(a,'is in between 1000 & 2000')
+else:
+    print(a,'is not in between 1000 & 2000')
